@@ -20,13 +20,13 @@
             Nickname = nickname;
         }
 
-        /*public override string toString()
+        public string toString()
         {
             if (string.IsNullOrEmpty(Nickname))
             {
                 return FirstName + " " + LastName;
             }
             return FirstName + " \"" + Nickname + "\" " + LastName;
-        }*/
+        }
     }
 }
