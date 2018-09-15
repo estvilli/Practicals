@@ -1,0 +1,4 @@
+/Users/williamstraus/Library/Mobile Documents/com~apple~CloudDocs/Dokumendid (iCloud)/Ülikool/Tallinna Tehnikaülikool/I semester/C# programmeerimine/Practicals/Prax01/obj/Debug/netcoreapp2.1/Prax01.csprojAssemblyReference.cache
+/Users/williamstraus/Library/Mobile Documents/com~apple~CloudDocs/Dokumendid (iCloud)/Ülikool/Tallinna Tehnikaülikool/I semester/C# programmeerimine/Practicals/Prax01/obj/Debug/netcoreapp2.1/Prax01.csproj.CoreCompileInputs.cache
+/Users/williamstraus/Library/Mobile Documents/com~apple~CloudDocs/Dokumendid (iCloud)/Ülikool/Tallinna Tehnikaülikool/I semester/C# programmeerimine/Practicals/Prax01/obj/Debug/netcoreapp2.1/Prax01.AssemblyInfoInputs.cache
+/Users/williamstraus/Library/Mobile Documents/com~apple~CloudDocs/Dokumendid (iCloud)/Ülikool/Tallinna Tehnikaülikool/I semester/C# programmeerimine/Practicals/Prax01/obj/Debug/netcoreapp2.1/Prax01.AssemblyInfo.cs
